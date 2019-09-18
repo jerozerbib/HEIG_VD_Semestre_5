@@ -5,3 +5,21 @@
 	path = SYM
 	url = https://github.com/jerozerbib/SYM_HEIG_VD_19
 
+[submodule "AIT"]
+	path = AIT
+	url = https://github.com/jerozerbib/AIT_HEIG_VD_19
+[submodule "AMT"]
+	path = AMT
+	url = https://github.com/jerozerbib/AMT_HEIG_VD_19
+[submodule "GRX"]
+	path = GRX
+	url = https://github.com/jerozerbib/GRX_HEIG_VD_19
+[submodule "STI"]
+	path = STI
+	url = https://github.com/jerozerbib/STI_HEIG_VD_19
+[submodule "TWEB"]
+	path = TWEB
+	url = https://github.com/jerozerbib/TWEB_HEIG_VD_19
+[submodule "Cal"]
+	path = Cal
+	url = https://github.com/jerozerbib/Calendrier_HEIG_Semestre5
