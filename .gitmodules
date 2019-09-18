@@ -4,7 +4,6 @@
 [submodule "SYM"]
 	path = SYM
 	url = https://github.com/jerozerbib/SYM_HEIG_VD_19
-
 [submodule "AIT"]
 	path = AIT
 	url = https://github.com/jerozerbib/AIT_HEIG_VD_19
